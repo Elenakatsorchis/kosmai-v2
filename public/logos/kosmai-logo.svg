@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">KOSMAI</title>
+  <desc id="desc">Inteligência humana para adoção de IA</desc>
+  <defs>
+    <linearGradient id="teal" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#214A50"/>
+      <stop offset="1" stop-color="#3E6B73"/>
+    </linearGradient>
+    <linearGradient id="wine" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#9B1D18"/>
+      <stop offset="1" stop-color="#831307"/>
+    </linearGradient>
+  </defs>
+  <g aria-hidden="true">
+    <polygon points="34 28 66 28 66 124 34 152" fill="url(#teal)"/>
+    <polygon points="108 28 141 28 95 84 72 58" fill="url(#wine)"/>
+    <polygon points="75 88 98 62 151 152 113 152" fill="url(#teal)"/>
+    <circle cx="134" cy="83" r="9" fill="#831307"/>
+  </g>
+  <g fill="#2B2B2E" font-family="Optima, Cinzel, Trajan Pro, Times New Roman, serif">
+    <text x="205" y="82" font-size="48" font-weight="400" letter-spacing="30">KOSMAI</text>
+  </g>
+  <g font-family="Montserrat, Inter, Avenir Next, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="8">
+    <text x="208" y="122" fill="#234D54">INTELIGÊNCIA HUMANA</text>
+    <text x="208" y="150" fill="#234D54">PARA ADOÇÃO DE <tspan fill="#831307">IA</tspan></text>
+  </g>
+</svg>

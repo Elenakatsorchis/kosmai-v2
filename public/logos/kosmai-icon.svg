@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="KOSMAI">
+  <defs>
+    <linearGradient id="teal" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#214A50"/>
+      <stop offset="1" stop-color="#3E6B73"/>
+    </linearGradient>
+    <linearGradient id="wine" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#9B1D18"/>
+      <stop offset="1" stop-color="#831307"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="34" fill="#F5F3EF"/>
+  <polygon points="42 28 72 28 72 123 42 150" fill="url(#teal)"/>
+  <polygon points="113 28 144 28 99 83 77 58" fill="url(#wine)"/>
+  <polygon points="80 88 102 62 153 150 116 150" fill="url(#teal)"/>
+  <circle cx="137" cy="83" r="9" fill="#831307"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KOSMAI">
+  <rect width="64" height="64" rx="13" fill="#F5F3EF"/>
+  <polygon points="14 9 25 9 25 45 14 55" fill="#3E6B73"/>
+  <polygon points="40 9 51 9 35 29 27 20" fill="#831307"/>
+  <polygon points="28 31 36 22 55 55 42 55" fill="#3E6B73"/>
+  <circle cx="49" cy="29" r="4" fill="#831307"/>
+</svg>
