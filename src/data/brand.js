@@ -71,7 +71,7 @@ export const brand = {
     emailUrl: "mailto:contato@eksd.com.br",
   },
   navigation: [
-    { label: "sobre", href: "./sobre.html" },
+    { label: "Sobre", href: "./sobre.html" },
     { label: "Trilhas", href: "./#trilhas" },
     { label: "Método", href: "./#metodo" },
     { label: "Formatos", href: "./#formatos" },
